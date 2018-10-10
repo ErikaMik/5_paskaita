@@ -1,0 +1,25 @@
+.logo-wrapper1 {
+	background-color: blue;
+}
+.logo-wrapper2 {
+	background-color: red;
+	text-align: center;
+	color: white;
+}
+/*.block {
+	background-color: black;
+}*/
+.square {
+	background-color: gray;
+	border: 3px solid white;
+	margin: 5px;
+	padding: 20px;
+	color: black;
+	float: left;
+	font-size: 30px;
+	display: inline;
+}
+.row {
+	background-color: pink; 
+}
+
